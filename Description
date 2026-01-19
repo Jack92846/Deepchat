@@ -1,1 +1,23 @@
 Project description: A project management tool that supports the content production (task) process of a team
+Core technology stack:
+back-end:
+  PHP (primary backend language)
+  Apache (Web server)
+  MySQL (database)
+  Python (for some backend services, especially AI-related processing)
+front-end:
+  HTML/CSS/JavaScript (basic front-end technologies)
+AI integration:
+  DeepSeek API (for document summarization, knowledge extraction, and question generation)
+Deployment and Operations:
+  WordPress (tried to use)
+  BT panel (Baota panel, used for server management)
+  SSL Certificate (Deployed)
+  Cloud server (actual deployment environment)
+
+Project Features: 
+Intelligent Document Processing: Supports uploading of PDF/DOCX/TXT files, with AI automatically extracting knowledge points
+Automatic question generation: Generate multiple-choice questions, true-false questions, etc., based on extracted knowledge points
+Multi-language support: Includes a language switching function
+User system: complete login/registration/permission management
+Historical records: Document version tracking and user learning progress tracking
