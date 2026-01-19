@@ -21,3 +21,5 @@ Automatic question generation: Generate multiple-choice questions, true-false qu
 Multi-language support: Includes a language switching function
 User system: complete login/registration/permission management
 Historical records: Document version tracking and user learning progress tracking
+
+This project is essentially an educational technology platform that combines traditional web development and AI capabilities to provide users with intelligent learning management and assessment tools.
