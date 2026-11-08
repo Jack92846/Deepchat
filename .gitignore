@@ -1,0 +1,27 @@
+# Secrets
+config.json
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.project
+.Rhistory
+
+# PHP dependencies (reinstall with composer install)
+/vendor/
+
+# Logs & runtime data
+*.log
+Main/conversation.txt
+
+# Test artifacts
+test_result_*.txt
